@@ -1,0 +1,9 @@
+.home-header {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.search-container {
+    margin-bottom: 12px;
+}
